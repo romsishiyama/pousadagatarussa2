@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    position: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.logo{
+    text-align: center;
+    position: center;
+    align-items: center;
+
+}
+footer{
+    position: center;
+    align-items: center;
+}
+
+
